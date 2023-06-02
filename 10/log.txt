@@ -1,0 +1,8 @@
+[epoc: 10,  2625] training loss: 0.182
+Training Accuracy = 94.08889576834234
+
+
+
+[epoc: 8,   657] valid loss: 0.025
+
+valid Accuracy = 96.80430537695861

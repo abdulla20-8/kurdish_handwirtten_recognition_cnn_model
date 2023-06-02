@@ -1,0 +1,1 @@
+https://www.kaggle.com/code/soyansoon/99-with-pytorch-resnet/input?scriptVersionId=124735918
